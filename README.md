@@ -34,8 +34,9 @@ https://neeraj450107.github.io/Weather_APP.github.io/
  - JavaScript
  - Fetch API
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/9c27102b-a417-4ec4-9457-a819c91651e4)
+
 ![Image](https://github.com/user-attachments/assets/4d87ce7a-560d-4241-94cd-91abe4105eab)
 ![Image](https://github.com/user-attachments/assets/dc1c45e7-332d-4f42-a54a-84c5872daeb8)
+![Image](https://github.com/user-attachments/assets/9c27102b-a417-4ec4-9457-a819c91651e4)
 
 
