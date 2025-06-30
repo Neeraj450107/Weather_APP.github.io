@@ -5,7 +5,8 @@ This is a simple Weather App created using HTML, CSS, and JavaScript.
 
 The app fetches real-time weather data using the OpenWeather API and displays the current temperature, humidity, wind speed, timezone, and pressure based on the user's input of a city name. If an invalid city is entered, it shows a 404 error picture.
 
-
+# URL LINK : 
+https://neeraj450107.github.io/Weather_APP.github.io/
 
 ## Features 
 
@@ -18,7 +19,7 @@ The app fetches real-time weather data using the OpenWeather API and displays th
 
 ## Demo
 
-![Image](https://github.com/user-attachments/assets/39dd0ba5-149e-434b-8c3f-41a43bad2bc8)
+
 
 
 ## API Reference
@@ -32,3 +33,7 @@ The app fetches real-time weather data using the OpenWeather API and displays th
  - [CSS3](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [JavaScript](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Fetch API](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+## Screenshots
+
+
+
