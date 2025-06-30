@@ -20,7 +20,7 @@ https://neeraj450107.github.io/Weather_APP.github.io/
 ## Demo
 
 
-
+![Image](https://github.com/user-attachments/assets/cd8763be-838a-4f34-a4f7-d07b869354a1)
 
 ## API Reference
  OpenWeather API is used along with Its Key here to Get current tempertaure , pressure etc Data To show on UI.
