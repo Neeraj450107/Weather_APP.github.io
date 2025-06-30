@@ -18,7 +18,7 @@ The app fetches real-time weather data using the OpenWeather API and displays th
 
 ## Demo
 
-
+![Image](https://github.com/user-attachments/assets/39dd0ba5-149e-434b-8c3f-41a43bad2bc8)
 
 
 ## API Reference
