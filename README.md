@@ -10,11 +10,11 @@ https://neeraj450107.github.io/Weather_APP.github.io/
 
 ## Features 
 
- - [Search weather by city name](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Fetches data using the OpenWeather API](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Responsive design and clean UI](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Shows 404 image for invalid city names](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Displays current temperature, humidity, wind speed, timezone, and pressure](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - Search weather by city name
+ - Fetches data using the OpenWeather API
+ - Responsive design and clean UI
+ - Shows 404 image for invalid city names
+ - Displays current temperature, humidity, wind speed, timezone, and pressure
 
 
 ## Demo
@@ -29,11 +29,13 @@ https://neeraj450107.github.io/Weather_APP.github.io/
 
 ## Technologies Used
 
- - [HTML5](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [CSS3](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [JavaScript](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Fetch API](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - HTML5
+ - CSS3
+ - JavaScript
+ - Fetch API
 ## Screenshots
-
+![Image](https://github.com/user-attachments/assets/9c27102b-a417-4ec4-9457-a819c91651e4)
+![Image](https://github.com/user-attachments/assets/4d87ce7a-560d-4241-94cd-91abe4105eab)
+![Image](https://github.com/user-attachments/assets/dc1c45e7-332d-4f42-a54a-84c5872daeb8)
 
 
